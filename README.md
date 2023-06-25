@@ -1,4 +1,4 @@
-# Projemizin Adı
+# LOUİSE SQL DORK SEARCHER
 
 Kısa bir proje açıklaması buraya yazılabilir.
 
@@ -25,7 +25,7 @@ $ python louisedorker-v1.0.py
 
 ## Kullanım
 
-Tool'u Çalıştırdıktan sonra Sql İnjection Dork'unuzu Girip kaçtane sitenin kaydedileceğini gireceksiniz. Sonra sadece bekleyin.
+Tool'u Çalıştırdıktan sonra Sql İnjection Dork'unuzu Girip kaçtane sitenin kaydedileceğini gireceksiniz. Tool Dork'tan Çıkan sitelere Girip Otomaik İnjection Testleri Yapmaktadır Onda göre siteler kaydedilmektedir.
 
  Made By: Louise0357
  

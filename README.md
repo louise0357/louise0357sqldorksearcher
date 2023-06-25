@@ -1,7 +1,5 @@
 # LOUİSE SQL DORK SEARCHER
 
-Kısa bir proje açıklaması buraya yazılabilir.
-
 ## İçindekiler
 
 - [Proje Hakkında](#proje-hakkında)

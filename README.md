@@ -27,6 +27,6 @@ Tool'u Çalıştırdıktan sonra Sql İnjection Dork'unuzu Girip kaçtane siteni
 
  Made By: Louise0357
  
- THT: Ottoman_grandson
+ THT: louise0357
 
  İnstagram: louise0357
